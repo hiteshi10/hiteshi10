@@ -26,6 +26,8 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
+
 
 <img align="centre" width=300px alt="codinggirl" src="https://github.com/hiteshi10/hiteshi10/blob/main/83d02feec53b7c98bdebde10810cc84a.gif" />
 
