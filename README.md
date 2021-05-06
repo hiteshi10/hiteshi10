@@ -48,13 +48,11 @@
   <img align="left" title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
   <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
   </p>
-  
-
-<br> 
+ <br> 
  
   
 
-
+<br>
 Credits: [Hiteshi](https://github.com/hiteshi10)
 
 Last Edited on: 06-05-2021
