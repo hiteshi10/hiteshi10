@@ -36,8 +36,7 @@
 -  **Quote :** We are like a surfer, first we just paddle and fall off the board but as time goes by we can stand up on the bigger waves 🎯:heart:
 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
-<p align="left">
+<hr>
   <h3>Languages and Tools</h3>
   
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
