@@ -6,7 +6,7 @@
 <h3 align="center">WebD Enthusiast | Youtuber | Cyber Security Enthusiast</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/hiteshi-454848206/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="aksia" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hitpopu2823" target="blank"><img align="center" src="https://github.com/hiteshi10/hiteshi10/blob/main/blog-no-img-cursorlogo-e1588888720902.png" alt="@chowrasia_akash1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hitpopu2823" target="blank"><img align="center" src="https://github.com/hiteshi10/hiteshi10/blob/main/blog-no-img-cursorlogo-e1588888720902.png" alt="Hiteshi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCVPu4rjbsyd3ZOGpaXRrcEA" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Hiteshi" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ukiyomahi2002/" target="blank"><img align="center" src="https://github.com/hiteshi10/hiteshi10/blob/main/7172161b580470deb78078669236d2c1.jpg" alt="Hiteshi" height="30" width="40" /></a>
  <a href = "mailto: noonamahi2002@gmail.com"><img align="center" src="https://github.com/hiteshi10/hiteshi10/blob/main/Gmail-logo.png" height="30" width="40" /></a>
@@ -26,7 +26,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<p align="left"> <img src="https://profile-counter.glitch.me/{hiteshi10}/count.svg" alt="akash-chowrasia" /> </p>
+<p align="left"> <img src="https://profile-counter.glitch.me/{hiteshi10}/count.svg" alt="Hiteshi" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
