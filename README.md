@@ -28,7 +28,7 @@
 
 <p align="center"> <img src="https://github.com/hiteshi10/hiteshi10/blob/main/83d02feec53b7c98bdebde10810cc84a.gif" alt="hiteshi" /> </p>
 
-<i>About</i>
+<i>## 📖 About me</i>
 
 -  **Learning :** WebD, Cyber Security :zap: | Open-Source :fire:	
 -  **Languages :** Python, C, Java, C++💻
