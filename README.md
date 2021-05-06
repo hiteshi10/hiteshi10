@@ -27,7 +27,7 @@
 </p>
 
 <p align="left"> <img src="https://github.com/hiteshi10/hiteshi10/blob/main/83d02feec53b7c98bdebde10810cc84a.gif" alt="Hiteshi" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
