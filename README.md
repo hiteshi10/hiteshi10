@@ -27,7 +27,7 @@
 </p>
 
 
-<img align="right" width=300px alt="codinggirl" src="https://github.com/hiteshi10/hiteshi10/blob/main/83d02feec53b7c98bdebde10810cc84a.gif" />
+<img align="centre" width=300px alt="codinggirl" src="https://github.com/hiteshi10/hiteshi10/blob/main/83d02feec53b7c98bdebde10810cc84a.gif" />
 
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
