@@ -30,10 +30,10 @@
 
 <i>About</i>
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Python, C, JavaScript💻
--  **Hobbies :** Articles📕 & Music :headphones:
--  **Fact :** It's never late to get started 🎯:heart:
+-  **Learning :** WebD, Cyber Security :zap: | Open-Source :fire:	
+-  **Languages :** Python, C, Java, C++💻
+-  **Hobbies :** K-pop, Stanning BTS :headphones:
+-  **Quote :** We are like a surfer, first you just paddle and fall off the board but as time goes by you can stand up on the bigger waves 🎯:heart:
 
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
