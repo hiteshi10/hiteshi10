@@ -30,7 +30,7 @@
 
 <h3>📖 About me</h3>
 
--  **Learning :** WebD, Cyber Security :zap: | Open-Source :fire:	
+-  **Learning :** WebD, Cyber Security :zap: :fire:	
 -  **Languages :** Python, C, Java, C++💻
 -  **Hobbies :** K-pop, Stanning BTS :headphones:
 -  **Quote :** We are like a surfer, first we just paddle and fall off the board but as time goes by we can stand up on the bigger waves 🎯:heart:
