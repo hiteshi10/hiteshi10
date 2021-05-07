@@ -53,7 +53,7 @@
   
 
 <br>
-Credits: [Hiteshi](https://github.com/hiteshi10)
+<p>Credits: [Hiteshi](https://github.com/hiteshi10)</p>
 
 Last Edited on: 06-05-2021
 
