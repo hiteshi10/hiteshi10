@@ -17,7 +17,7 @@
 
 <p align="center">
   <em>
-   I am a fresher at  <a href="https://www.igdtuw.ac.in/"> <b>Indira Gandhi Delhi Technical University For Women</b>, Delhi, India</a>. <br>
+   I am a sophomore at  <a href="https://www.igdtuw.ac.in/"> <b>Indira Gandhi Delhi Technical University For Women</b>, Delhi, India</a>. <br>
     currently pursuing B.Tech in IT</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and  <b>I am curious about everything</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>I am someone who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants to make <b>significant</b> contribution in
     <b>STEM fields</b>. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> 
