@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Hiteshi</h1>
-<h3 align="center">WebD Enthusiast | Youtuber | Cyber Security Enthusiast</h3>
+<h3 align="center">WebD Enthusiast | Youtuber | Augemented Reality Enthusiast</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/hiteshi-454848206/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hitpopu2823" target="blank"><img align="center" src="https://github.com/hiteshi10/hiteshi10/blob/main/blog-no-img-cursorlogo-e1588888720902.png" alt="Hiteshi" height="30" width="40" /></a>
